@@ -1,0 +1,23 @@
+there are no zero-elements, so zero implies that the spot is empty
+
+insert:
+1st -
+ if (e+1)/2n >=threshold, then resize cuckoo hash
+int input = data;
+int tempChain = 0;
+
+boolean ifInserted
+
+do{
+index1 = hash1(data)
+if(array1[index1] ==0) then array[index1] = data ,if inserted =true;
+else then temp = array[index1], array[index1]  = data; ifInserted=false, tempChain++; 
+       index2 = hash2(temp)
+       if(hash2(index2) ==0) then array2[index2] = temp, ifInserted =false;
+       else then 
+
+
+
+
+
+hash 1 :  a1 data+ b % n
